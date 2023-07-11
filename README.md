@@ -12,3 +12,21 @@
 - Langchain LLM Application Development
 - Diffusion Model workflow
 - Building System using ChatGPT
+
+
+## 1 - Installation
+
+```
+pip install -r requirements.txt
+```
+
+## 2 - Setup Environment
+
+- Create .env File
+```
+touch .env
+```
+- save openai key
+```
+OPEN_AI_API_KEY="PAST_YOUR_API_KEY_HERE"
+```

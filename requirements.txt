@@ -1,0 +1,9 @@
+openai
+pandas
+python-dotenv
+langchain
+matplotlib
+torch
+Pillow
+torchvision
+numpy
